@@ -56,8 +56,6 @@ Example:
 
     hydra -l wazuhadmin -P passwords.txt ssh://<UBUNTU-IP>
 
-## Wazuh Detection
-
 ### Failed SSH Authentication
 
 Wazuh detected the failed SSH authentication attempts.
