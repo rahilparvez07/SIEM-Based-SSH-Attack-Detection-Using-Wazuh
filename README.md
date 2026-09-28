@@ -81,28 +81,6 @@ Wazuh also detected the subsequent successful authentication.
 
 **Description:** sshd: authentication success
 
-## Evidence
-
-### Hydra Attack Simulation
-
-![Hydra attack](screenshots/01-hydra-attack.png)
-
-### Wazuh Dashboard
-
-![Wazuh Dashboard](screenshots/02-wazuh-dashboard.png)
-
-### Wazuh Alert Details
-
-![Wazuh Alert](screenshots/03-wazuh-alert-details.png)
-
-### Ubuntu SSH Logs
-
-![SSH logs](screenshots/04-ubuntu-auth-log.png)
-
-### Successful SSH Authentication
-
-![Successful SSH login](screenshots/05-successful-ssh-login.png)
-
 ## Key Learning
 
 This project demonstrates the SOC workflow:
